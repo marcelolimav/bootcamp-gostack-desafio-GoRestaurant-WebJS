@@ -23,6 +23,30 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 5,
+      "name": "Pão com 3 ovos",
+      "description": "Pão com 3 ovos",
+      "price": "18,25",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "id": 6,
+      "name": "Pão com 5 ovos fritos ",
+      "description": "Pão com 5 ovos fritos",
+      "price": "5.55",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "id": 7,
+      "name": "Pão com 2 Ovos ",
+      "description": "Pão com 2 ovos fritos",
+      "price": "15,00",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     }
   ]
 }
