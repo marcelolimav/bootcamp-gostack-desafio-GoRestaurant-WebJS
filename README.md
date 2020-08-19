@@ -1,4 +1,4 @@
-# Rocketseat/GoSatck - Deafio 10
+# Rocketseat/GoSatck - [Desafio 10](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud)
 
 
 
