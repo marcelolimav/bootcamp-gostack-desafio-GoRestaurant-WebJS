@@ -12,7 +12,7 @@
  
 Aqui estão as tecnologias utilizadas neste projeto.
  
-* Ruby version  x.x.x
-* Rails version x.x.x
+* NodeJs
+* React
 * ...
  
