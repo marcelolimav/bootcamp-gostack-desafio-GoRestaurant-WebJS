@@ -12,7 +12,7 @@ Desafio para treinar e aplicar ensinamentos adquiridos até agora no Bootcamp Go
 As seguintes ferramentas foram usadas na construção do projeto.
  
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
+- [React.js](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Lista de funlcionalidades aplicadas no desafio
