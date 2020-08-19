@@ -1,4 +1,4 @@
-# Desafio: Rocketseat/GoSatck
+# Desafio 10: Rocketseat/GoSatck
 
 # GoRestaurant (web)
 <p alin="center"><b>Aplicação para estudos em React.js:</b> Administração de restaurantes para manutenções nos pratos </p>
