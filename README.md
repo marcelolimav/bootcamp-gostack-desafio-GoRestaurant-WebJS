@@ -8,11 +8,11 @@
 
 
  
-## Tecnologias 
+### Tecnologias 
  
-Aqui estão as tecnologias utilizadas neste projeto.
+As seguintes ferramentas foram usadas na construção do projeto.
  
-* NodeJs
+- [Node.js](https://nodejs.org/en/)
 * React
 * ...
  
